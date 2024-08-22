@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px red;
+    border-bottom: solid 2px #ffcbdb;
     padding: 20px;
     font-size: 32px;
     color: blue;
 }
 
 .chamada {
-    background: red;
+    background: #ffcbdb;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -56,7 +56,7 @@ p {
 }
 
 .categoria h2 {
-    color: red;
+    color: blue;
 }
 
 /*- Barra de rolagem -*/
